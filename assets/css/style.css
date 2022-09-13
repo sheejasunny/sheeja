@@ -284,7 +284,7 @@ h6 {
 #hero {
  width: 100%;
     height: 100vh;
-    background-image: url(https://t3.ftcdn.net/jpg/02/43/67/06/240_F_243670619_uaVi2UzY2kwuXBYJKbcl7xwhJqAnBMdv.jpg);
+    background: url(https://t3.ftcdn.net/jpg/02/43/67/06/240_F_243670619_uaVi2UzY2kwuXBYJKbcl7xwhJqAnBMdv.jpg);
     background-size: cover;
     position: relative;
 }
